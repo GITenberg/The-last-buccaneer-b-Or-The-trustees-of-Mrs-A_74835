@@ -1,0 +1,33 @@
+_repo: The-last-buccaneer-b-Or-The-trustees-of-Mrs-A_74835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cornford, L. Cope (Leslie Cope)
+    aliases:
+    - Cornford, Leslie Cope
+    - Cope Cornford, Leslie
+    birthdate: 1867
+    deathdate: 1927
+    gutenberg_agent_id: '57237'
+    url: http://www.gutenberg.org/2009/agents/57237
+description: ''
+gutenberg_issued: '2024-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74835'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.hn1muj
+pgterms:marc905: 20221111045532cornford
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Charlene Taylor, Tim Lindell, David E. Brown, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bJ. B. Lippincott Company, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The last buccaneer : $b Or, The trustees of Mrs A.'
+url: http://www.gutenberg.org/ebooks/74835
